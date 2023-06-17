@@ -1,0 +1,37 @@
+body{
+   background-image: linear-gradient(to right, rgba(227, 14, 14, 0.2), rgba(236, 69, 13, 0.4));
+   /* background-image: url('https://th.bing.com/th/id/OIP.-jtxJzAmLSxKUjvRAHNg_gHaJF?pid=ImgDet&rs=1');
+   background-repeat: no-repeat;
+   background-size: cover; */
+}
+.container{
+    text-align: center;
+    margin: 23px;
+}
+h1{
+    font-size: 55px;
+}
+table{
+    margin: auto;
+}
+input{
+    font-size: 34px;
+    width: 308px;
+    padding: 2px 10px;
+    border-radius: 20px;
+    margin-bottom: 23px;
+}
+button{
+    font-size: 25px;
+    background: rgb(198, 207, 229);
+    height: 65px;
+    width: 80px;
+    border-radius: 20px;
+    margin: 2px;
+}
+.calculator{
+    display: inline-block;
+    background-color: black;
+    padding: 23px;
+    border-radius: 25px;
+}
